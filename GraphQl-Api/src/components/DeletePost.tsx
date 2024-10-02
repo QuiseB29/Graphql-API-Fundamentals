@@ -35,3 +35,4 @@ const DeletePost: React.FC = () => {
 };
 
 export default DeletePost;
+
